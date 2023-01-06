@@ -1,0 +1,22 @@
+id: AB38C039F
+title: Detailed Visualization of the Great Compassionate One’s Retinue
+type: translation
+pechas:
+- I068F1866
+- I464FCE76
+- I586C9E88
+source_metadata:
+  languages:
+  - en
+  - de
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:44:27.235012
+  last_modified_at: 2023-01-04 11:44:27.235023
+  collections:
+  - Dodrupchen Jigme Trinle Özer Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I068F1866/E4B6: '3869'
+  I464FCE76/4A37: '3869'
+  I586C9E88/39CA: '3869'
